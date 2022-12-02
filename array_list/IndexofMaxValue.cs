@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace MinMaxofArray
+namespace IndexofMaxValue
 {
     class Program
     {
